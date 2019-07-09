@@ -1,0 +1,5 @@
+com.employee.employeeservices
+com.employee.employeeservices.controller
+com.employee.employeeservices.model
+com.employee.employeeservices.repository
+com.employee.employeeservices.service
